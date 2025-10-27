@@ -101,8 +101,8 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["121.xyz"];
-pub const RS_PUB_KEY: &str = "XwIN3nT2YRpG89mUPdtWKgmcELEHFEzJ2ks8NHSnMSB=";
+pub const RENDEZVOUS_SERVERS: &[&str] = &["121678.xyz"];
+pub const RS_PUB_KEY: &str = "XwIN3nT2YRpG89mUPdtWKgmcELEHFEzJ2ks8NHSnMSA=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
